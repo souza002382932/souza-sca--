@@ -28,7 +28,7 @@ def main():
     with open("output/report.json", "w") as f:
         json.dump(report, f, indent=2)
 
-    print("✅ Scan finalizado!")
+    print("✅ michely puta!")
 
 if __name__ == "__main__":
     main()
